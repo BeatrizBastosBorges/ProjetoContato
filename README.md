@@ -1,7 +1,7 @@
 # ProjetoContato
 <br>
 Programa de C++ que permita a digitação (e posterior exibição), dos dados relativos à classe "Contato" abaixo descrita:
-<br>
+<br><br>
 <div align="center">
   <pre>
     ---------------------
